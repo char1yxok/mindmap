@@ -1,0 +1,10 @@
+C:\Users\chmaf\source\repos\mindmap_MMtest\mindmap_MMtest\bin\Debug\mindmap_MMtest.exe.config
+C:\Users\chmaf\source\repos\mindmap_MMtest\mindmap_MMtest\bin\Debug\mindmap_MMtest.exe
+C:\Users\chmaf\source\repos\mindmap_MMtest\mindmap_MMtest\bin\Debug\mindmap_MMtest.pdb
+C:\Users\chmaf\source\repos\mindmap_MMtest\mindmap_MMtest\obj\Debug\mindmap_MMtest.csprojResolveAssemblyReference.cache
+C:\Users\chmaf\source\repos\mindmap_MMtest\mindmap_MMtest\obj\Debug\mindmap_MMtest.Form1.resources
+C:\Users\chmaf\source\repos\mindmap_MMtest\mindmap_MMtest\obj\Debug\mindmap_MMtest.Properties.Resources.resources
+C:\Users\chmaf\source\repos\mindmap_MMtest\mindmap_MMtest\obj\Debug\mindmap_MMtest.csproj.GenerateResource.cache
+C:\Users\chmaf\source\repos\mindmap_MMtest\mindmap_MMtest\obj\Debug\mindmap_MMtest.csproj.CoreCompileInputs.cache
+C:\Users\chmaf\source\repos\mindmap_MMtest\mindmap_MMtest\obj\Debug\mindmap_MMtest.exe
+C:\Users\chmaf\source\repos\mindmap_MMtest\mindmap_MMtest\obj\Debug\mindmap_MMtest.pdb
